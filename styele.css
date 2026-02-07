@@ -414,6 +414,7 @@ textarea{
   #contact .contact-contect {
     flex-direction: column;
   }
+  } 
   /*mobile start*/
   @media (max-width: 600px;){
     #navbar {
@@ -460,4 +461,3 @@ textarea{
       width: 80%;
     }
   }
-}
